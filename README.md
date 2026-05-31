@@ -6,7 +6,7 @@ Application desktop développée en Python 3 avec interface graphique CustomTkin
 ---
 
 ## 👥 Réalisé par
-Aya Boutezra · Safae Chendoudi · Nada Bourhes · Wijdane · Nada  
+Aya Boutezra · Safae Chendoudi · Nada Bourhes · Wijdane Ghailan · Nada Zairi 
 **Module :** Optimisation combinatoire — Tournées de livraison  
 **Établissement :** ENSA Tanger
 
